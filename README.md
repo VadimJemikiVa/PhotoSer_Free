@@ -17,6 +17,7 @@ PhotoSer Free позволяет передавать файлы **с телеф
 - QR-код помогает открыть адрес PhotoSer на телефоне;
 - приложение рассчитано на использование в локальной сети.
 
+
 ### Ограничение передачи
 
 Максимальный общий размер одной передачи в Free-версии — **2 GiB (2 × 1024³ байт)**.
@@ -92,6 +93,8 @@ python PhotoSer_Free.py
 
 Этот проект не добавляет к GPLv3 отдельных ограничений «только для домашнего использования», «только для некоммерческого использования» или запрета на дальнейшее распространение.
 
+Обратная связь.
+Если вы нашли ошибку, хотите предложить улучшение или задать вопрос, создайте Issue в репозитории GitHub или напишите на jemiki@inbox.lv.
 ---
 
 ## English
@@ -182,6 +185,8 @@ When distributing PhotoSer, keep the following with the program where practical:
 
 This project does not add separate "home use only", "non-commercial use only", or "no redistribution" restrictions on top of the GPLv3.
 
+Feedback 
+If you find a bug, have a suggestion, or have a question, please open an Issue in the GitHub repository or contact us at jemiki@inbox.lv.
 ---
 
 ## Latviešu
@@ -203,6 +208,8 @@ Interfeiss atbalsta krievu, angļu, latviešu un vācu valodu.
 
 PhotoSer Free tiek izplatīts saskaņā ar **GNU General Public License, 3. versiju (GPLv3)**. Pilns licences teksts ir failā `LICENSE`. Trešo pušu komponentes un to licences ir norādītas failā `THIRD-PARTY-NOTICES.txt`.
 
+Atsauksmes 
+Ja atrodat kļūdu, jums ir ieteikums vai jautājums, lūdzu, izveidojiet Issue GitHub repozitorijā vai rakstiet uz jemiki@inbox.lv.
 ---
 
 ## Deutsch
@@ -222,8 +229,11 @@ Der Standardport ist **51773**. Zusätzlich stehen 51774, 51775, 8080, 8888 und 
 
 Die Benutzeroberfläche unterstützt Russisch, Englisch, Lettisch und Deutsch.
 
-PhotoSer Free wird unter der **GNU General Public License, Version 3 (GPLv3)** verteilt. Der vollständige Lizenztext befindet sich in `LICENSE`. Die Lizenzen der Drittanbieter-Komponenten sind in `THIRD-PARTY-NOTICES.txt` aufgeführt.
+PhotoSer Free wird unter der **GNU General Public License, Version 3 (GPLv3)** verteilt. Der vollständige Lizenztext befindet sich in `LICENSE`. Die Lizenzen der 
+Drittanbieter-Komponenten sind in `THIRD-PARTY-NOTICES.txt` aufgeführt.
 
+Rückmeldung
+Wenn Sie einen Fehler finden, einen Verbesserungsvorschlag haben oder eine Frage stellen möchten, erstellen Sie bitte ein Issue im GitHub-Repository oder schreiben Sie an jemiki@inbox.lv.
 ---
 
 ## Author / Автор / Autors / Autor
