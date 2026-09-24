@@ -1,0 +1,62 @@
+PhotoSer Free — Third-Party Software Notices
+Copyright (C) 2026 JemikiVa
+
+This file records third-party software used by PhotoSer Free. Each component
+remains subject to its own license. The exact obligations for a binary release
+depend on the exact dependency versions bundled with that release.
+
+1. Flask
+   License: BSD-3-Clause
+   Project: https://github.com/pallets/flask
+   License file: https://github.com/pallets/flask/blob/main/LICENSE.txt
+
+2. Werkzeug
+   License: BSD-3-Clause
+   Project: https://github.com/pallets/werkzeug
+   License file: https://github.com/pallets/werkzeug/blob/main/LICENSE.txt
+
+3. Waitress
+   License: Zope Public License 2.1 (ZPL-2.1)
+   Copyright: Zope Foundation and Contributors
+   Project: https://github.com/Pylons/waitress
+   License file: https://github.com/Pylons/waitress/blob/main/LICENSE.txt
+
+4. qrcode
+   License: BSD-3-Clause
+   Copyright: Lincoln Loop and contributors
+   Project: https://github.com/lincolnloop/python-qrcode
+   License file: https://github.com/lincolnloop/python-qrcode/blob/main/LICENSE
+
+5. Pillow
+   License: MIT-CMU
+   Copyright: Secret Labs AB; Fredrik Lundh and contributors;
+              Jeffrey 'Alex' Clark and contributors
+   Project: https://github.com/python-pillow/Pillow
+   License file: https://github.com/python-pillow/Pillow/blob/main/LICENSE
+
+6. zeroconf
+   License: GNU Lesser General Public License v2.1 or later
+            (LGPL-2.1-or-later)
+   Project: https://github.com/python-zeroconf/python-zeroconf
+   License file: https://github.com/python-zeroconf/python-zeroconf/blob/master/COPYING
+
+7. pystray
+   License: GNU Lesser General Public License v3 or later
+            (LGPL-3.0-or-later)
+   Project: https://github.com/moses-palmer/pystray
+   License file: https://github.com/moses-palmer/pystray/blob/master/COPYING.LGPL
+
+8. Tcl/Tk
+   License: Tcl/Tk License
+   Project: https://www.tcl.tk/
+   Note: Tcl/Tk is part of the Python/Tkinter runtime used by the Windows
+         application and may be bundled into the PyInstaller executable.
+
+License identifiers above are intended to describe the licenses applicable to
+the versions used by the corresponding release. If dependency versions change,
+review this file against the actual packages included in the release.
+
+This notice is informational and does not replace the full license texts.
+For source distributions, the authoritative license text is supplied by the
+respective upstream project. For binary releases, preserve the applicable
+notices and license information as required by the respective licenses.

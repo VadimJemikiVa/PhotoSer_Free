@@ -1,0 +1,8 @@
+# PhotoSer Free runtime dependencies
+# Record exact versions used for a published binary release.
+Flask
+Waitress
+qrcode
+Pillow
+zeroconf
+pystray
